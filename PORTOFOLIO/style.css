@@ -1,0 +1,56 @@
+.navbar a{
+    float:right;
+    color:black;
+    font-weight: 300;
+    font-size: 150%;
+    padding:20px 20px;
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif;
+
+
+}
+.Name{
+    position: absolute;
+    float: left;
+    font-size: 50px;
+}
+body{
+    background: rgb(237,191,211);
+background: radial-gradient(circle, rgba(237,191,211,1) 16%, rgba(151,190,236,1) 100%);
+}
+.main {
+    padding-top: 10%;
+    padding-left: 7%;
+    color:black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+}
+.main h2{
+    padding-bottom: 1%;
+    padding-left: 1%;
+}
+h1{
+    font-size: 450%;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+}
+h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+.icon{
+    padding: 10px;
+    
+}
+.box{
+    margin-top: 30%;
+    width: 70%;
+    height: 50%;
+    background-color: blue;
+    justify-content: space-evenly;
+
+}
